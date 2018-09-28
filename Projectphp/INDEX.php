@@ -35,7 +35,7 @@ include 'includes/HEADER.php';
 			<div class="header_bottom_left">				
 				<div class="categories">
 				  <ul>
-				  	<h3>Categories</h3>
+				  	<h3>Kinds</h3>
 				     
 					  <?PHP 
 					  require "includes/connection.php";
